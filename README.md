@@ -6,7 +6,7 @@ Efficiency tracker, tracks your efficient working hours during a day and records
 ![Program Window](https://github.com/imanfaraji/Efficiency_Tracker/blob/master/Eff_tracker_window.jpg "Program Window")
 
 
-![Sample Recorded Result](https://github.com/imanfaraji/Efficiency_Tracker/blob/master/Eff_tracker_result.jpg "Sample Recorded Result")
+![Sample Recorded Result](https://github.com/imanfaraji/Efficiency_Tracker/blob/master/Eff_tracker_results.jpg "Sample Recorded Result")
 
 
 
